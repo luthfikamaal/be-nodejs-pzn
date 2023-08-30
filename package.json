@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "test": "jest -i",
-    "start": "node src/main.js"
+    "build": "node src/main.js"
   },
   "jest": {
     "transform": {
